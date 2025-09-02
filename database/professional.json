@@ -1,0 +1,20 @@
+{
+    "professionalName": "Christina Lane",
+    "base64Image": "../frontend/profile.jpg",
+    "nameLink": {
+        "firstName": "Christina",
+        "url": "https://www.linkedin.com/in/christina-lane-157512a/"
+    },
+    "primaryDescription": "Sr Business Analyst",
+    "workDescription1": "Process Automation & Workflow Optimization Expert.",
+    "workDescription2": "Certified Front-End Web Developer",
+    "linkTitleText": "Links",
+    "linkedInLink": {
+        "text": "LinkedIn",
+        "link": "https://www.linkedin.com/in/christina-lane-157512a/"
+    },
+    "githubLink": {
+        "text": "GitHub",
+        "link": "https://github.com/clane83"
+    }
+}
